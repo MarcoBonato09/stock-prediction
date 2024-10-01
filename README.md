@@ -1,2 +1,3 @@
-# stock-prediction
-Currently in the data gathering phase, a program to predict stock prices. 
+# A stock price predictor
+
+## Currently in the process of gathering data
